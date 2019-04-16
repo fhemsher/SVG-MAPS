@@ -13,5 +13,5 @@ You may then create/save/publish Custom Map Drawings.
 
 To preview how this application works go to: http://svg-maps.com
 
-NOTE:To store your svg images for the Component library, the Windows IIS must have 
+NOTE:To store your maps for the LIBRARY, the Windows IIS must have 
 ASP files activated (See **Wiki** for a description how to do this).
