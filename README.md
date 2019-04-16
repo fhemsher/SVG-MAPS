@@ -9,9 +9,9 @@ To run the application, in **localhost** select the index.htm file.
 
 You may then create/save/publish Custom Map Drawings.
 
-![](http://svg-maps.com/Images/scada.introMap.png)
+![](http://svg-maps.com/Images/introMap.png)
 
-To preview how this application works go to: http://svg-scada.com
+To preview how this application works go to: http://svg-maps.com
 
 NOTE:To store your svg images for the Component library, the Windows IIS must have 
 ASP files activated (See **Wiki** for a description how to do this).
